@@ -64,5 +64,5 @@ The average number of material in the system and in the conveyor and waiting tim
 
 ## Github :
 ```
-https://github.com/Bala123-d/Single-server-infinite-capacity---Markov-Model.git
+
 ```
